@@ -1,6 +1,6 @@
 # Overview 
 
-In this notebook, we tried to predict customer churn using feed-forward neural networks. The dataset used for this purpose consists of 100 features (including 21 categorical features and 79 numeric variables) for 100,000 records of customers of a telecommunications company obtained from Kaggle. After preprocessing the data, we split it into training and test sets with the respective size of 70 and 30 percent of the complete data. We used PyTorch to train the model, experimented with different network architectures, activation functions, and learning rates to identify their impact on the performance of the model, and selected the best-performing model. 
+In this project, we tried to predict customer churn using feed-forward neural networks. The dataset used for this purpose consists of 100 features (including 21 categorical features and 79 numeric variables) for 100,000 records of customers of a telecommunications company obtained from Kaggle. After preprocessing the data, we split it into training and test sets with the respective size of 70 and 30 percent of the complete data. We used PyTorch to train the model, experimented with different network architectures, activation functions, and learning rates to identify their impact on the performance of the model, and selected the best-performing model. 
 
 
 # Data Preprocessing
